@@ -1,0 +1,2 @@
+nome do album: rrrr| nome do artista: rrr| data de lancamento do album: rrr| ultimo album lançado: rrr|
+nome do album: naa| nome do artista: sss| data de lancamento do album: sss| ultimo album lançado: Não|
