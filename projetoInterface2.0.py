@@ -1,6 +1,5 @@
 from tkinter import *
 from tkinter import ttk, messagebox
-import os
 
 janela = Tk()
 
@@ -86,7 +85,6 @@ def dados() :
 
 def cadastrar_artista() :
     global janela_cadastro
-    pastaApp = os.path.dirname(__file__)
     janela_cadastro = Tk()
     janela_cadastro.title("Cadastro De Artistas")
     janela_cadastro.geometry("650x550")
