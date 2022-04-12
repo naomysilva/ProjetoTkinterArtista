@@ -38,9 +38,6 @@ def tela_voltar_cadastro() :
     janela.maxsize(width=900, height=700)
 
     Label(janela,text="MENU").pack()
-    img = PhotoImage(file="artist arsenal.png")
-    label_imagem = Label(janela, image=img)
-    label_imagem.pack()
     botoes()
     janela.mainloop()
 
